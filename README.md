@@ -70,10 +70,7 @@ A modern, responsive developer portfolio built with Next.js, TypeScript, Tailwin
 - Tailwind settings in `tailwind.config.ts`  
 - Next.js settings in `next.config.mjs`  
 
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-Made with ❤️ by [Harsh Pipaliya](https://github.com/hp-078)
+Made by [Harsh Pipaliya](https://github.com/hp-078)
