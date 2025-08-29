@@ -13,8 +13,7 @@ A modern, responsive developer portfolio built with Next.js, TypeScript, Tailwin
 
 ## 🛠️ Tech Stack
 
-- Next.js 13 (App Router)  
-- React & TypeScript  
+- React   
 - Tailwind CSS  
 - Framer Motion  
 - Radix UI & Lucide Icons  
@@ -64,13 +63,5 @@ A modern, responsive developer portfolio built with Next.js, TypeScript, Tailwin
    npm run start
    ```
 
-## 🔧 Configuration
-
-- Rename `.env.example` to `.env.local` and add any secrets (e.g., SMTP or form backend URL).  
-- Tailwind settings in `tailwind.config.ts`  
-- Next.js settings in `next.config.mjs`  
-
-
----
 
 Made by [Harsh Pipaliya](https://github.com/hp-078)
