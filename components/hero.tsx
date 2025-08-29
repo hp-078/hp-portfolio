@@ -51,7 +51,7 @@ export default function Hero() {
               transition={{ delay: 0.5, duration: 1 }}
             >
               <motion.span initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.7 }}>
-                Full Stack Developer
+                Software Engineer
               </motion.span>
               <motion.span
                 className="text-purple-400 mx-2"
@@ -83,7 +83,8 @@ export default function Hero() {
             className="text-lg md:text-xl text-gray-400 max-w-3xl mx-auto leading-relaxed"
           >
             Computer Science Engineering student passionate about creating innovative web solutions and solving complex
-            problems. Currently pursuing BTech at CSPIT, Charusat University.
+            problems. Currently pursuing BTech at CSPIT, 
+            Charusat University.
           </motion.p>
 
           <motion.div variants={itemVariants} className="flex flex-col sm:flex-row gap-4 justify-center items-center">

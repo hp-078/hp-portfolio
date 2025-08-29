@@ -15,13 +15,13 @@ const skillCategories = [
   {
     title: "Web Technologies",
     icon: Globe,
-    skills: ["HTML/CSS", "React.js", "Node.js", "Express.js"],
+    skills: ["HTML/CSS", "JavaScript", "React.js", "Node.js", "Express.js"],
     color: "from-blue-500 to-cyan-500",
   },
   {
     title: "Databases & Tools",
     icon: Database,
-    skills: ["MongoDB", "XAMPP", "Gradio", "ReportLab", "Netlify"],
+    skills: ["MongoDB", "XAMPP", "Gradio", "ReportLab"],
     color: "from-green-500 to-emerald-500",
   },
   {
@@ -33,7 +33,7 @@ const skillCategories = [
   {
     title: "Frameworks & Libraries",
     icon: Settings,
-    skills: ["MERN Stack", "Framer Motion", "Recharts", "Pandas", "NumPy"],
+    skills: [ "Framer Motion", "Recharts", "Pandas", "NumPy"],
     color: "from-indigo-500 to-purple-500",
   },
   {

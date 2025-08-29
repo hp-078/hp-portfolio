@@ -41,7 +41,7 @@ const projects = [
 		icon: Database,
 		gradient: "from-green-500 to-emerald-500",
 		github: "https://github.com/cs-cspit/23CS-SEM4-CSE210_64_78_83.git",
-		demo: "#",
+		demo: "https://fresh-track-six.vercel.app/",
 	},
 	{
 		title: "Inventory Management System",

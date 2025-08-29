@@ -54,7 +54,7 @@ export default function About() {
               <h3 className="text-2xl font-bold text-white mb-4">Hello! I'm Harsh</h3>
               <p className="text-gray-300 leading-relaxed mb-6">
                 I'm a passionate Computer Science Engineering student at Chandubhai S. Patel Institute of Technology,
-                Charusat University, with a strong foundation in full-stack development and problem-solving. I love
+                Charusat University, with a foundation in development and problem-solving. I love
                 creating innovative web solutions and have experience working with modern technologies like React,
                 Node.js, Python, and more.
               </p>
