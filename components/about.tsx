@@ -80,7 +80,7 @@ export default function About() {
               >
                 <GraduationCap className="text-blue-400 mb-3" size={24} />
                 <h4 className="text-white font-semibold mb-2">Education</h4>
-                <p className="text-gray-300">BTech CSE (CGPA: 8.5)</p>
+                <p className="text-gray-300">BTech CSE</p>
               </motion.div>
 
               <motion.div
