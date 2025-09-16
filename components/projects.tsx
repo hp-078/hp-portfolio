@@ -59,7 +59,7 @@ const projects = [
 		icon: Brain,
 		gradient: "from-blue-500 to-cyan-500",
 		github: "https://github.com/hp-078/Inventory-Management-System.git",
-		demo: "#",
+		demo: "https://inventory-management-system-vwkq.onrender.com/",
 	},
 ]
 
